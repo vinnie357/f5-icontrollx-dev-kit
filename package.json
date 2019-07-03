@@ -10,5 +10,8 @@
   "license": "MIT",
   "bin" : {
     "icrdk" : "bin/icrdk.js"
+  },
+  "dependencies": {
+    "fs-copy-file-sync": "1.1.1" 
   }
 }
