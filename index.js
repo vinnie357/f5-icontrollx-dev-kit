@@ -1,5 +1,5 @@
 'use strict';
 
-const util = require('./lib/util.js');
+var util = require('./lib/util.js');
 
 module.exports = util;
